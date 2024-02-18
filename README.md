@@ -1,6 +1,6 @@
 # Cricket Player Insights Power BI Dashboard
 
-  ## 🚀 ** Click On The Below Image To Play The Watch the Dashboard's Video! ** 🎥
+  ## 🚀 ** Click On The Below Image To Watch Dashboard's Video! ** 🎥
    
 [![Project Video](https://img.youtube.com/vi/Y_RmjWhWfl0/0.jpg)](https://www.youtube.com/watch?v=Y_RmjWhWfl0)
 
